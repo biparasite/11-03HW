@@ -52,7 +52,7 @@ rsync -av --progress  --delete --checksum --exclude=".*/" /home/biparasite/ /tmp
 /usr/bin/rsync -a --stats --progress  --delete --bwlimit=1024 ~/file biparasite@192.168.56.11:/home/biparasite/
 ```
 
-![bwlimit](https://github.com/biparasite/10-03HW/blob/main/rsync_3.1.png)
+![bwlimit](https://github.com/biparasite/11-03HW/blob/main/rsync_3.1.png)
 
 ---
 
